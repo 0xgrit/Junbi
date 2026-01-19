@@ -125,6 +125,7 @@ int main ( int argc, char **argv )
     else
     {
       std::cerr << "Error please check your password. " << std::endl;
+      return 1;
     }
   }
 
