@@ -1,5 +1,4 @@
-# Junbi (準備 — to prepare)
-
+# Junbi 
 A collection of warm-up projects (katas) from my 2026 programming journey, focused on sharpening problem-solving skills before tackling more advanced work.
 
 ## Projects
